@@ -1,3 +1,4 @@
+# anthor:tianfeihan
 import wx
 def load(event):
     file=open(filename.GetValue())
